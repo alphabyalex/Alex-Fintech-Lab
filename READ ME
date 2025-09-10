@@ -1,0 +1,17 @@
+Hello! Thank you for visiting my GITHUB!
+
+Here are some notes explaining my current projects that are in process / compelted. 
+
+1. Calculator_Risk.py is a script that analyzes all the assets in "assetlistall"
+ and computes various results into a CSV callde asset_results.CSV. This does take awhile to run so keep that in mind.
+ Unfortunately, this data will have to be re-ran every so often to keep up with up to date stats.
+The current asset_results is out of date. 
+
+ 2. Filter_risk.py is a file part of Calculator_risk. After all the info for the assets has been retrieved and computed
+ filter_risk applies a filter for all the assets. using my algo, it will sort the near 10,000 stock tickers into the most viable
+ in terms of long term investment based on many factors. This list is outputted in a way thats easy to copy paste.
+
+ 3. IPO-Project.py is a script that is in process, the goal is to create a script that will quickly retrieve and analyze data
+ for companies that are soon to go public and allow the user to use this data and analysis to make an investment decision
+ for an IPO. In this project I want to compare a new "in-flight" company with similar comparable companies and account for 
+ differences to make these investment decisions easier for traders. 
